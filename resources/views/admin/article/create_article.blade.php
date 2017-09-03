@@ -1,0 +1,1 @@
+<form action="{{route('admin.article.create')}}" method="POST" enctype="multipart/form-data">

@@ -1,0 +1,1 @@
+<form action="{{route('admin.lesson.update', ['slug' => $lesson->data->slug])}}" method="POST" enctype="multipart/form-data">

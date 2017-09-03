@@ -1,0 +1,1 @@
+<form action="{{route('admin.lesson.create')}}" method="POST" enctype="multipart/form-data">
